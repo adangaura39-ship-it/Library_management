@@ -1,0 +1,8 @@
+target/
+out/
+*.class
+*.db
+src/main/resources/config.properties
+.idea/
+*.iml
+.vscode/

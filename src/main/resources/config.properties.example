@@ -1,0 +1,6 @@
+# Copy this file to config.properties (same folder) and adjust if needed.
+# config.properties is git-ignored so nothing sensitive ever gets committed.
+#
+# Default: a local SQLite file called library.db, created next to wherever
+# you run the jar from. No username/password needed for SQLite.
+db.url=jdbc:sqlite:library.db
