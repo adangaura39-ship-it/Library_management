@@ -1,8 +1,10 @@
 # Library Management System
 
 A terminal-based Java application for managing a library's book catalog,
-member registrations, and borrowing/returning activity, backed by a
-relational database via JDBC.
+member registrations, and borrowing/returning activity. It stores all
+records in a relational database through JDBC, so data persists between
+runs. The project demonstrates object-oriented design, the Java
+Collections Framework, and parameterised SQL queries.
 
 ## Features implemented
 
