@@ -153,7 +153,7 @@ Member ID: 2
 "The Pragmatic Programmer" has no available copies right now.
 ```
 
-## Screenshots
+## Screenshot
 
 **Adding a book**
 ![Add book](screenshots/add-book.png)
